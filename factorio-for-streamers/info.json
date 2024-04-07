@@ -3,5 +3,8 @@
     "version": "0.1.0",
     "title": "Factorio for streamers",
     "author": "Crisenpuer",
-    "homepage": "https://github.com/crisenpuer/FactorioForStreamers"
+    "homepage": "https://github.com/crisenpuer/FactorioForStreamers",
+    "description": "A piece of code that will make your stream more user-friendly and interactable",
+    "factorio_version": "1.1",
+    "dependencies": []
 }
